@@ -1,0 +1,21 @@
+cray port
+insightpanel in cases
+onpremise connectors
+poc befr prjct start
+casec deflction
+case search 
+visualforce page
+
+Requirements of crayportal
+
+vf community(community based on visualforce page)what is vf community and how we can create vf comm and how we can add code in that.
+supported languages (html,js)
+search box on header
+full search page
+button on case creation 
+case deflection panel
+Security**
+Insight panel in case layout page (not in service console)
+Attached result
+how many ways that we can implement insight panel in case layout
+security
